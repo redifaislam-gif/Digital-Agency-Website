@@ -1,0 +1,2080 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,300,700|Montserrat:700");
+
+@font-face {
+  font-family: "SegoeUI-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/SegoeUI-Semibold") format("truetype");
+}
+
+.unigrad-landing-page-2 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 4474px;
+  overflow: hidden;
+  width: 1920px;
+}
+.unigrad-landing-page-2 .activ {
+  height: 12px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .bg {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px rgba(118, 130, 183, 0.161);
+  height: 350px;
+  left: 1px;
+  position: absolute;
+  top: 597px;
+  width: 370px;
+}
+.unigrad-landing-page-2 .bg-1 {
+  height: 410px;
+  left: 0px;
+  position: absolute;
+  top: 148px;
+  width: 430px;
+}
+.unigrad-landing-page-2 .bg-2 {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px rgba(118, 130, 183, 0.161);
+  height: 350px;
+  left: 396px;
+  position: absolute;
+  top: 597px;
+  width: 370px;
+}
+.unigrad-landing-page-2 .border {
+  background-color: rgba(245, 249, 255, 1);
+  box-shadow: 0px 20px 20px rgba(118, 130, 183, 0.161);
+  height: 326px;
+  left: 0px;
+  position: absolute;
+  top: -2255px;
+  width: 496px;
+}
+.unigrad-landing-page-2 .ceo-nrd-group {
+  letter-spacing: 0px;
+  line-height: 32px;
+  margin-bottom: -11px;
+  margin-left: 0.15px;
+  margin-top: 2px;
+  min-height: 21px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .ceo-nrd-group-1 {
+  left: 111px;
+  letter-spacing: 0px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: -2184px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .color-overlay {
+  height: 16px;
+  width: 20px;
+}
+.unigrad-landing-page-2 .color-overlay-1 {
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+.unigrad-landing-page-2 .color-overlay-2 {
+  height: 16px;
+  width: 17px;
+}
+.unigrad-landing-page-2 .color-overlay-3 {
+  height: 16px;
+  width: 9px;
+}
+.unigrad-landing-page-2 .commuinity {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 1px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .double-your-income {
+  left: 70px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 753px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .download-app {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 0.19px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .ellipse-44 {
+  background-color: white;
+  border-radius: 0.44174256920814514px;
+  height: 1px;
+  left: 61px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .ellipse-45 {
+  background-color: white;
+  border-radius: 0.44174256920814514px;
+  height: 1px;
+  left: 62px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .ellipse-46 {
+  background-color: white;
+  border-radius: 0.44174256920814514px;
+  height: 1px;
+  left: 63px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .ellipse-47 {
+  background-color: white;
+  border-radius: 0.44174256920814514px;
+  height: 1px;
+  left: 70px;
+  position: absolute;
+  top: 97px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.25px;
+  min-height: 110px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.91px;
+  margin-left: 6px;
+  min-height: 29px;
+  width: 64px;
+}
+.unigrad-landing-page-2 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.25px;
+  min-height: 109px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 6.08px;
+  margin-left: 20px;
+  min-height: 48px;
+  width: 160px;
+}
+.unigrad-landing-page-2 .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 124px;
+  margin-left: 0px;
+  margin-top: 18px;
+  min-width: 152px;
+}
+.unigrad-landing-page-2 .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 174px;
+  margin-left: 335.77px;
+  min-width: 804px;
+}
+.unigrad-landing-page-2 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-left: 5.6px;
+  min-width: 243px;
+}
+.unigrad-landing-page-2 .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 22px;
+  margin-right: 30.39px;
+  margin-top: 9px;
+  min-width: 1168px;
+}
+.unigrad-landing-page-2 .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 124px;
+  margin-left: 0px;
+  margin-top: 19px;
+  min-width: 158px;
+}
+.unigrad-landing-page-2 .flex-row-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 124px;
+  margin-top: 19px;
+  min-width: 150px;
+}
+.unigrad-landing-page-2 .go-to-to {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  margin-top: -3.5px;
+  min-height: 21px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .group-135 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 28px;
+  min-width: 115px;
+  padding: 0 0px;
+  position: absolute;
+  top: -1988px;
+}
+.unigrad-landing-page-2 .group-135-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 560px;
+  min-width: 115px;
+  padding: 0 0px;
+  position: absolute;
+  top: -1988px;
+}
+.unigrad-landing-page-2 .group-1613 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-width: 128px;
+}
+.unigrad-landing-page-2 .group-1865 {
+  align-self: flex-end;
+  height: 33px;
+  width: 29px;
+}
+.unigrad-landing-page-2 .group-1866 {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  margin-left: 4px;
+  margin-top: 6.45px;
+  min-width: 32px;
+}
+.unigrad-landing-page-2 .group-1867 {
+  align-items: flex-start;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  margin-bottom: 9.39px;
+  min-width: 3px;
+}
+.unigrad-landing-page-2 .group-1868 {
+  align-items: center;
+  display: flex;
+  margin-top: 3px;
+  min-width: 64px;
+}
+.unigrad-landing-page-2 .group-1869 {
+  height: 4px;
+  margin-left: 0.03px;
+  width: 53px;
+}
+.unigrad-landing-page-2 .group-1872 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  min-width: 30px;
+}
+.unigrad-landing-page-2 .group-1873 {
+  align-items: center;
+  display: flex;
+  height: 23px;
+  margin-top: 3px;
+  min-width: 97px;
+  padding: 0 0px;
+}
+.unigrad-landing-page-2 .group-1874 {
+  height: 9px;
+  width: 96px;
+}
+.unigrad-landing-page-2 .group-1875 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0px;
+  margin-left: 5px;
+  min-height: 35px;
+  width: 97px;
+}
+.unigrad-landing-page-2 .group-1876 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-1983@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  margin-top: 14px;
+  min-width: 153px;
+  padding: 7.8px 10.3px;
+}
+.unigrad-landing-page-2 .group-1974 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-2259@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 37px;
+  padding: 7.5px 7.5px;
+  position: absolute;
+  top: 2px;
+}
+.unigrad-landing-page-2 .group-2078 {
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+.unigrad-landing-page-2 .group-2078-1 {
+  height: 68px;
+  position: relative;
+  width: 68px;
+}
+.unigrad-landing-page-2 .group-2081 {
+  align-items: flex-start;
+  background-color: rgba(245, 249, 255, 1);
+  box-shadow: 0px 20px 20px rgba(118, 130, 183, 0.161);
+  display: flex;
+  flex-direction: column;
+  left: 532px;
+  min-height: 326px;
+  padding: 39.6px 23px;
+  position: absolute;
+  top: -2255px;
+  width: 496px;
+}
+.unigrad-landing-page-2 .group-2085 {
+  align-items: flex-end;
+  display: flex;
+  height: 39px;
+  left: 25px;
+  min-width: 39px;
+  position: absolute;
+  top: 24px;
+}
+.unigrad-landing-page-2 .group-2086 {
+  height: 38px;
+  left: 29px;
+  position: absolute;
+  top: 25px;
+  width: 34px;
+}
+.unigrad-landing-page-2 .group-2087 {
+  align-items: center;
+  display: flex;
+  height: 39px;
+  left: 25px;
+  min-width: 39px;
+  padding: 0 0px;
+  position: absolute;
+  top: 26px;
+}
+.unigrad-landing-page-2 .group-2144 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-1926@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 0.02px;
+  margin-top: 27px;
+  min-width: 153px;
+  padding: 6.9px 6.6px;
+}
+.unigrad-landing-page-2 .group-2147 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2px;
+  min-height: 109px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .group-2148 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 174px;
+  width: 158px;
+}
+.unigrad-landing-page-2 .group-2149 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  min-height: 173px;
+  width: 152px;
+}
+.unigrad-landing-page-2 .group-2150 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 66px;
+  min-height: 174px;
+  width: 150px;
+}
+.unigrad-landing-page-2 .group-2151 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 19px;
+  margin-left: 737px;
+  min-width: 202px;
+}
+.unigrad-landing-page-2 .group-2153 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 65px;
+  min-height: 168px;
+  width: 153px;
+}
+.unigrad-landing-page-2 .group-2156 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 240px;
+  min-width: 177px;
+  position: absolute;
+  top: 1152px;
+}
+.unigrad-landing-page-2 .group-2157 {
+  align-items: flex-end;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 18px 40px rgba(167, 166, 165, 0.161);
+  display: flex;
+  height: 51px;
+  justify-content: flex-end;
+  left: 437px;
+  min-width: 177px;
+  padding: 5.5px 28px;
+  position: absolute;
+  top: 1152px;
+}
+.unigrad-landing-page-2 .group-2491 {
+  align-items: flex-start;
+  background-color: var(--lavender-magenta);
+  display: flex;
+  height: 88px;
+  left: 0px;
+  min-width: 88px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .group-2493 {
+  align-items: flex-start;
+  display: flex;
+  height: 88px;
+  left: 171px;
+  min-width: 88px;
+  position: absolute;
+  top: 203px;
+}
+.unigrad-landing-page-2 .group-2494 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 88px;
+}
+.unigrad-landing-page-2 .group-2495 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  min-width: 88px;
+}
+.unigrad-landing-page-2 .group-2497 {
+  align-items: flex-end;
+  display: flex;
+  height: 350px;
+  justify-content: center;
+  left: 429px;
+  min-width: 370px;
+  position: absolute;
+  top: 159px;
+}
+.unigrad-landing-page-2 .group-2498 {
+  align-items: flex-end;
+  display: flex;
+  height: 350px;
+  justify-content: center;
+  left: 0px;
+  min-width: 370px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .group-2501 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 27px;
+  min-width: 32px;
+  padding: 0 0px;
+  position: absolute;
+  top: 23px;
+}
+.unigrad-landing-page-2 .group-2502 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 24px;
+  min-width: 36px;
+  position: absolute;
+  top: 25px;
+}
+.unigrad-landing-page-2 .group-2503 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  left: 164px;
+  min-width: 41px;
+  position: absolute;
+  top: 669px;
+}
+.unigrad-landing-page-2 .group-2506 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  left: 541px;
+  min-width: 80px;
+  position: absolute;
+  top: 642px;
+}
+.unigrad-landing-page-2 .group-2507 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  left: 941px;
+  min-width: 80px;
+  position: absolute;
+  top: 642px;
+}
+.unigrad-landing-page-2 .group-2509 {
+  height: 944px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1169px;
+}
+.unigrad-landing-page-2 .group-2511 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 77px;
+  min-height: 776px;
+  width: 1174px;
+}
+.unigrad-landing-page-2 .group-2512 {
+  align-items: flex-start;
+  display: flex;
+  height: 90px;
+  left: 238px;
+  min-width: 387px;
+  position: absolute;
+  top: 521px;
+}
+.unigrad-landing-page-2 .group-2513 {
+  align-items: flex-start;
+  display: flex;
+  height: 83px;
+  left: 24px;
+  min-width: 262px;
+  position: absolute;
+  top: -4089px;
+}
+.unigrad-landing-page-2 .group-3 {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 15px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .group-926 {
+  height: 769px;
+  left: 978px;
+  position: absolute;
+  top: 676px;
+  transform: rotate(-1deg);
+  width: 730px;
+}
+.unigrad-landing-page-2 .hoover {
+  height: 11px;
+  margin-top: 28px;
+  width: 370px;
+}
+.unigrad-landing-page-2 .how-unigrad-works {
+  height: 62px;
+  left: 409px;
+  letter-spacing: 0px;
+  line-height: 63px;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+  width: 366px;
+}
+.unigrad-landing-page-2 .icon {
+  align-items: flex-start;
+  background-color: var(--biloba-flower);
+  display: flex;
+  height: 80px;
+  left: 0px;
+  min-width: 80px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .icon-1 {
+  align-items: flex-start;
+  background-color: var(--bright-sun);
+  display: flex;
+  height: 80px;
+  left: 146px;
+  min-width: 80px;
+  position: absolute;
+  top: 642px;
+}
+.unigrad-landing-page-2 .icon-2 {
+  align-items: flex-start;
+  background-color: var(--blue-jeans);
+  display: flex;
+  height: 88px;
+  left: 0px;
+  min-width: 88px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .icon-3 {
+  align-items: flex-start;
+  background-color: var(--caribbean-green-pearl);
+  display: flex;
+  height: 88px;
+  left: 0px;
+  min-width: 88px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .icon-4 {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 80px;
+  left: 0px;
+  min-width: 80px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .imageshape {
+  border-radius: 31.30324363708496px/31.302288055419922px;
+  height: 63px;
+  left: 29px;
+  position: absolute;
+  top: -2215px;
+  width: 63px;
+}
+.unigrad-landing-page-2 .imageshape-1 {
+  border-radius: 31.30324363708496px/31.302288055419922px;
+  height: 63px;
+  width: 63px;
+}
+.unigrad-landing-page-2 .indicator {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0.38px;
+  margin-top: 543px;
+  min-width: 86px;
+}
+.unigrad-landing-page-2 .join-us {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 0.63px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .learn-now {
+  color: rgba(40, 40, 41, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 23px;
+  font-weight: 300;
+  letter-spacing: 0px;
+  line-height: 23px;
+  min-height: 30px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .line-190 {
+  height: 1px;
+  margin-top: 54px;
+  width: 1920px;
+}
+.unigrad-landing-page-2 .name {
+  letter-spacing: 0px;
+  line-height: 27px;
+  margin-bottom: -2px;
+  min-height: 25px;
+  min-width: 160px;
+  text-align: center;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .name-1 {
+  left: 111px;
+  letter-spacing: 0px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: -2211px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .overlap-group {
+  height: 1708px;
+  margin-top: -493px;
+  position: relative;
+  width: 1942px;
+}
+.unigrad-landing-page-2 .overlap-group-1 {
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+.unigrad-landing-page-2 .overlap-group-2 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-378@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  margin-top: 34px;
+  min-width: 1174px;
+  padding: 16.4px 30.2px;
+}
+.unigrad-landing-page-2 .overlap-group-3 {
+  height: 16px;
+  position: relative;
+  width: 15px;
+}
+.unigrad-landing-page-2 .overlap-group-4 {
+  height: 16px;
+  margin-top: -0px;
+  position: relative;
+  width: 15px;
+}
+.unigrad-landing-page-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: rgba(53, 104, 212, 1);
+  display: flex;
+  flex-direction: column;
+  margin-left: -24.01px;
+  margin-top: 148px;
+  min-height: 464px;
+  padding: 0 24.3px;
+  width: 2006px;
+}
+.unigrad-landing-page-2 .overlap-group1-1 {
+  height: 39px;
+  position: relative;
+  width: 39px;
+}
+.unigrad-landing-page-2 .overlap-group10 {
+  align-self: flex-end;
+  height: 128px;
+  margin-bottom: -160.98px;
+  position: relative;
+  width: 870px;
+}
+.unigrad-landing-page-2 .overlap-group10-1 {
+  height: 162px;
+  margin-top: 16px;
+  position: relative;
+  width: 337px;
+}
+.unigrad-landing-page-2 .overlap-group10-2 {
+  height: 27px;
+  margin-top: -0px;
+  position: relative;
+  width: 41px;
+}
+.unigrad-landing-page-2 .overlap-group10-3 {
+  background-color: var(--biloba-flower);
+  border-radius: 20px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+.unigrad-landing-page-2 .overlap-group10-4 {
+  background-color: var(--blue-jeans);
+  border-radius: 20px;
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+.unigrad-landing-page-2 .overlap-group10-5 {
+  background-color: var(--carnation-pink);
+  border-radius: 20px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+.unigrad-landing-page-2 .overlap-group11 {
+  height: 32px;
+  margin-top: -0px;
+  position: relative;
+  width: 32px;
+}
+.unigrad-landing-page-2 .overlap-group11-1 {
+  height: 33px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 26px;
+}
+.unigrad-landing-page-2 .overlap-group11-2 {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 20px;
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+.unigrad-landing-page-2 .overlap-group11-3 {
+  height: 218px;
+  margin-left: 348.7px;
+  margin-top: 3825px;
+  position: relative;
+  width: 332px;
+}
+.unigrad-landing-page-2 .overlap-group12 {
+  background-color: var(--lavender-magenta);
+  border-radius: 20px;
+  height: 88px;
+  position: relative;
+  width: 88px;
+}
+.unigrad-landing-page-2 .overlap-group12-1 {
+  align-self: flex-start;
+  height: 449px;
+  margin-top: 1830px;
+  position: relative;
+  width: 1028px;
+}
+.unigrad-landing-page-2 .overlap-group12-2 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/bg@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -50px;
+  min-height: 410px;
+  padding: 50px 18px;
+  width: 430px;
+}
+.unigrad-landing-page-2 .overlap-group12-3 {
+  align-self: center;
+  height: 19px;
+  margin-bottom: 5.56px;
+  margin-left: 1px;
+  position: relative;
+  width: 11px;
+}
+.unigrad-landing-page-2 .overlap-group2 {
+  align-items: center;
+  background-color: rgba(248, 249, 251, 1);
+  display: flex;
+  flex-direction: column;
+  margin-top: 121px;
+  min-height: 710px;
+  padding: 0 446px;
+  width: 1920px;
+}
+.unigrad-landing-page-2 .overlap-group3 {
+  align-self: center;
+  height: 944px;
+  margin-left: 1px;
+  margin-top: 97px;
+  position: relative;
+  width: 1169px;
+}
+.unigrad-landing-page-2 .overlap-group4 {
+  height: 35px;
+  margin-top: -0px;
+  position: relative;
+  width: 30px;
+}
+.unigrad-landing-page-2 .overlap-group4-1 {
+  height: 13px;
+  margin-left: 1px;
+  margin-top: 0.03px;
+  position: relative;
+  width: 18px;
+}
+.unigrad-landing-page-2 .overlap-group4-2 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -0px;
+  position: relative;
+  width: 24px;
+}
+.unigrad-landing-page-2 .overlap-group4-3 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 46px;
+}
+.unigrad-landing-page-2 .overlap-group4-4 {
+  border-radius: 5px;
+  height: 51px;
+  position: relative;
+  width: 177px;
+}
+.unigrad-landing-page-2 .overlap-group4-5 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-2422@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 174px;
+  margin-top: 57px;
+  min-width: 1174px;
+  padding: 0 30.4px;
+}
+.unigrad-landing-page-2 .overlap-group4-6 {
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.unigrad-landing-page-2 .overlap-group4-7 {
+  height: 558px;
+  left: -30px;
+  position: absolute;
+  top: -4px;
+  width: 799px;
+}
+.unigrad-landing-page-2 .overlap-group5 {
+  height: 121px;
+  margin-left: 5.86px;
+  position: relative;
+  width: 869px;
+}
+.unigrad-landing-page-2 .overlap-group5-1 {
+  height: 947px;
+  left: 0px;
+  position: absolute;
+  top: -4px;
+  width: 766px;
+}
+.unigrad-landing-page-2 .overlap-group6 {
+  height: 350px;
+  left: 799px;
+  position: absolute;
+  top: 155px;
+  width: 370px;
+}
+.unigrad-landing-page-2 .overlap-group7 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-378@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  margin-top: 33px;
+  min-width: 1174px;
+  padding: 16.4px 30.2px;
+}
+.unigrad-landing-page-2 .overlap-group7-1 {
+  height: 947px;
+  left: 0px;
+  position: absolute;
+  top: -4px;
+  width: 371px;
+}
+.unigrad-landing-page-2 .overlap-group8 {
+  height: 947px;
+  left: 0px;
+  position: absolute;
+  top: -4px;
+  width: 1166px;
+}
+.unigrad-landing-page-2 .overlap-group9 {
+  align-self: flex-start;
+  height: 162px;
+  margin-top: 16px;
+  position: relative;
+  width: 337px;
+}
+.unigrad-landing-page-2 .overlap-group9-1 {
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+.unigrad-landing-page-2 .overlap-group9-2 {
+  background-color: var(--bright-sun);
+  border-radius: 20px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+.unigrad-landing-page-2 .overlap-group9-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/bg@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -50px;
+  min-height: 410px;
+  padding: 55px 18px;
+  width: 430px;
+}
+.unigrad-landing-page-2 .path-1103 {
+  height: 17px;
+  left: 59px;
+  position: absolute;
+  top: 78px;
+  width: 23px;
+}
+.unigrad-landing-page-2 .path-1106 {
+  height: 3px;
+  left: 69px;
+  position: absolute;
+  top: 87px;
+  width: 5px;
+}
+.unigrad-landing-page-2 .path-1107 {
+  height: 1px;
+  left: 77px;
+  position: absolute;
+  top: 80px;
+  width: 3px;
+}
+.unigrad-landing-page-2 .path-1108 {
+  height: 1px;
+  left: 76px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .path-1509 {
+  height: 1210px;
+  left: 0px;
+  position: absolute;
+  top: 483px;
+  width: 1920px;
+}
+.unigrad-landing-page-2 .path-166 {
+  height: 8px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-166-1 {
+  height: 8px;
+  margin-top: 26px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-166-2 {
+  height: 8px;
+  margin-left: 0px;
+  margin-top: 26px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-1662 {
+  height: 8px;
+  margin-left: 0px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-1665 {
+  height: 8px;
+  margin-top: 25px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-1666 {
+  height: 8px;
+  margin-left: 0px;
+  margin-top: 25px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-19 {
+  height: 2px;
+  margin-top: -0px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .path-19-1 {
+  height: 14px;
+  margin-bottom: 0px;
+  width: 9px;
+}
+.unigrad-landing-page-2 .path-196 {
+  height: 10px;
+  margin-bottom: 1.03px;
+  width: 10px;
+}
+.unigrad-landing-page-2 .path-1960 {
+  align-self: flex-start;
+  height: 14px;
+  margin-left: 1px;
+  margin-top: -0px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .path-1961 {
+  align-self: center;
+  height: 10px;
+  margin-bottom: 0.27px;
+  margin-left: 1px;
+  width: 8px;
+}
+.unigrad-landing-page-2 .path-1963 {
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}
+.unigrad-landing-page-2 .path-1966 {
+  align-self: flex-start;
+  height: 15px;
+  margin-top: 0.46px;
+  width: 15px;
+}
+.unigrad-landing-page-2 .path-1967 {
+  height: 15px;
+  left: 10px;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.unigrad-landing-page-2 .path-1968 {
+  height: 10px;
+  left: 15px;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+.unigrad-landing-page-2 .path-1984 {
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+.unigrad-landing-page-2 .path-1985 {
+  height: 8px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.unigrad-landing-page-2 .path-1986 {
+  align-self: flex-start;
+  height: 17px;
+  margin-top: 0.28px;
+  width: 15px;
+}
+.unigrad-landing-page-2 .path-1987 {
+  align-self: flex-end;
+  height: 18px;
+  margin-bottom: -0px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .path-1988 {
+  align-self: flex-end;
+  height: 18px;
+  margin-bottom: -0px;
+  margin-left: 1px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .path-1989 {
+  align-self: flex-start;
+  height: 18px;
+  margin-left: 5px;
+  margin-top: -0px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-1990 {
+  height: 16px;
+  margin-bottom: 2.63px;
+  width: 8px;
+}
+.unigrad-landing-page-2 .path-1991 {
+  height: 13px;
+  margin-top: 0.07px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .path-1992 {
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.unigrad-landing-page-2 .path-1993 {
+  height: 13px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+.unigrad-landing-page-2 .path-2 {
+  height: 20px;
+  margin-left: 2px;
+  width: 21px;
+}
+.unigrad-landing-page-2 .path-2321 {
+  height: 22px;
+  width: 22px;
+}
+.unigrad-landing-page-2 .path-2326 {
+  height: 19px;
+  left: 19px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.unigrad-landing-page-2 .path-2366 {
+  height: 28px;
+  left: 2px;
+  position: absolute;
+  top: 37px;
+  width: 18px;
+}
+.unigrad-landing-page-2 .path-2366-1 {
+  height: 19px;
+  left: 1px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .path-2367 {
+  height: 19px;
+  left: 33px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .path-2367-1 {
+  height: 28px;
+  left: 48px;
+  position: absolute;
+  top: 37px;
+  width: 18px;
+}
+.unigrad-landing-page-2 .path-2368 {
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+.unigrad-landing-page-2 .path-2368-1 {
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.unigrad-landing-page-2 .path-2369 {
+  height: 31px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+.unigrad-landing-page-2 .path-2369-1 {
+  height: 46px;
+  left: 22px;
+  position: absolute;
+  top: 22px;
+  width: 25px;
+}
+.unigrad-landing-page-2 .path-2370 {
+  height: 6px;
+  left: 21px;
+  position: absolute;
+  top: 22px;
+  width: 2px;
+}
+.unigrad-landing-page-2 .path-2370-1 {
+  height: 8px;
+  left: 32px;
+  position: absolute;
+  top: 32px;
+  width: 3px;
+}
+.unigrad-landing-page-2 .path-2373 {
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 39px;
+}
+.unigrad-landing-page-2 .path-2374 {
+  height: 15px;
+  left: 8px;
+  position: absolute;
+  top: 13px;
+  width: 19px;
+}
+.unigrad-landing-page-2 .path-2423 {
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 28px;
+}
+.unigrad-landing-page-2 .path-2424 {
+  height: 21px;
+  left: 8px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.unigrad-landing-page-2 .path-2425 {
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.unigrad-landing-page-2 .path-2426 {
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+.unigrad-landing-page-2 .path-2427 {
+  height: 19px;
+  left: 4px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.unigrad-landing-page-2 .path-2428 {
+  height: 14px;
+  left: 8px;
+  position: absolute;
+  top: 19px;
+  width: 8px;
+}
+.unigrad-landing-page-2 .path-2429 {
+  height: 2px;
+  left: 28px;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .path-2430 {
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.unigrad-landing-page-2 .path-2431 {
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+.unigrad-landing-page-2 .path-2432 {
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.unigrad-landing-page-2 .path-2433 {
+  height: 20px;
+  left: 17px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+.unigrad-landing-page-2 .path-292 {
+  height: 23px;
+  margin-left: 521px;
+  margin-top: 4.4px;
+  width: 15px;
+}
+.unigrad-landing-page-2 .path-8 {
+  height: 16px;
+  margin-left: 212px;
+  margin-top: 0px;
+  width: 25px;
+}
+.unigrad-landing-page-2 .path-9 {
+  height: 20px;
+  width: 21px;
+}
+.unigrad-landing-page-2 .path-9-1 {
+  height: 16px;
+  width: 10px;
+}
+.unigrad-landing-page-2 .path-9-2 {
+  height: 5px;
+  margin-top: 0px;
+  width: 5px;
+}
+.unigrad-landing-page-2 .rectangle-1 {
+  background-color: rgba(38, 128, 235, 1);
+  border-radius: 6px;
+  height: 12px;
+  margin-left: 12px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .rectangle-1-copy {
+  background-color: rgba(208, 212, 217, 1);
+  border-radius: 6px;
+  height: 12px;
+  margin-left: 14px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .rectangle-1-copy-2 {
+  background-color: rgba(208, 212, 217, 1);
+  border-radius: 6px;
+  height: 12px;
+  margin-left: 11px;
+  width: 12px;
+}
+.unigrad-landing-page-2 .rectangle-10 {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px rgba(118, 130, 183, 0.149);
+  height: 350px;
+  left: 796px;
+  position: absolute;
+  top: 597px;
+  width: 370px;
+}
+.unigrad-landing-page-2 .rectangle-1142 {
+  background-color: white;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 13px;
+  width: 19px;
+}
+.unigrad-landing-page-2 .rectangle-16 {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+.unigrad-landing-page-2 .rectangle-16-1 {
+  background-color: var(--carnation-pink);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.unigrad-landing-page-2 .rectangle-16-2 {
+  background-color: var(--biloba-flower);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.unigrad-landing-page-2 .rectangle-16-3 {
+  background-color: var(--lavender-magenta);
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+.unigrad-landing-page-2 .rectangle-16-4 {
+  background-color: var(--blue-jeans);
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+.unigrad-landing-page-2 .rectangle-16-5 {
+  background-color: var(--bright-sun);
+  border-radius: 20px;
+  height: 80px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.unigrad-landing-page-2 .rectangle-18 {
+  background: linear-gradient(180deg, #a9e595 0%, #0bcd87 100%);
+  border-radius: 15px;
+  height: 68px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 68px;
+}
+.unigrad-landing-page-2 .rectangle-19 {
+  background: linear-gradient(180deg, #6bcbfe 0%, #37a1fb 100%);
+  border-radius: 15px;
+  height: 66px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 66px;
+}
+.unigrad-landing-page-2 .rectangle-20 {
+  background: linear-gradient(180deg, #fda2e7 0%, #e957fc 100%);
+  border-radius: 20px;
+  height: 66px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 66px;
+}
+.unigrad-landing-page-2 .rectangle-21 {
+  background: linear-gradient(180deg, #ffdc09 0%, #feb783 100%);
+  border-radius: 15px;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+.unigrad-landing-page-2 .rectangle-22 {
+  background: linear-gradient(180deg, #c8bdfe 0%, #968dfd 100%);
+  border-radius: 15px;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+.unigrad-landing-page-2 .rectangle-23 {
+  background: linear-gradient(180deg, #feaad6 0%, #fd84bd 100%);
+  border-radius: 15px;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+.unigrad-landing-page-2 .rectangle-390 {
+  background-color: white;
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 61px;
+  width: 33px;
+}
+.unigrad-landing-page-2 .rectangle-418 {
+  background-color: rgba(101, 189, 129, 1);
+  border-radius: 5px;
+  box-shadow: 0px 18px 40px rgba(167, 166, 165, 0.161);
+  height: 51px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 177px;
+}
+.unigrad-landing-page-2 .rectangle-418:hover {
+  transform: rotate(15deg);
+}
+.unigrad-landing-page-2 .see-more {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 23px;
+  left: 37px;
+  letter-spacing: 0px;
+  line-height: 23px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .set-your-pricing {
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .support {
+  letter-spacing: 0px;
+  line-height: 24px;
+  margin-left: 1px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text- {
+  align-self: flex-end;
+  height: 36px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  min-height: 36px;
+  width: 569px;
+}
+.unigrad-landing-page-2 .text-1 {
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 70px;
+  left: 182px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 0px;
+  width: 514px;
+}
+.unigrad-landing-page-2 .text-10 {
+  letter-spacing: 0px;
+  line-height: 34px;
+  margin-left: 10px;
+  min-height: 124px;
+  min-width: 130px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-11 {
+  letter-spacing: 0px;
+  line-height: 34px;
+  margin-left: 9px;
+  min-height: 124px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-12 {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0px;
+  line-height: 26px;
+  min-height: 21px;
+  min-width: 229px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-13 {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  height: 152px;
+  left: 26px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  top: -4023px;
+  width: 330px;
+}
+.unigrad-landing-page-2 .text-14 {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 58px;
+  font-weight: 700;
+  height: 165px;
+  left: 240px;
+  letter-spacing: 0px;
+  line-height: 75px;
+  position: absolute;
+  top: 814px;
+  width: 815px;
+}
+.unigrad-landing-page-2 .text-15 {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  height: 108px;
+  left: 240px;
+  letter-spacing: 0px;
+  line-height: 32px;
+  position: absolute;
+  top: 988px;
+  width: 593px;
+}
+.unigrad-landing-page-2 .text-16 {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  left: 1024px;
+  letter-spacing: 0px;
+  line-height: 18px;
+  position: absolute;
+  top: 564px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-17 {
+  height: 137px;
+  left: 31px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  top: -2133px;
+  width: 442px;
+}
+.unigrad-landing-page-2 .text-18 {
+  align-self: flex-end;
+  height: 137px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  margin-top: 19px;
+  min-height: 137px;
+  width: 442px;
+}
+.unigrad-landing-page-2 .text-19 {
+  height: 62px;
+  letter-spacing: 0px;
+  line-height: 63px;
+  margin-bottom: -1px;
+  margin-right: 1.02px;
+  min-height: 62px;
+  white-space: nowrap;
+  width: 533px;
+}
+.unigrad-landing-page-2 .text-2 {
+  color: rgba(83, 83, 83, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  height: 82px;
+  left: 1px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  top: -133px;
+  width: 869px;
+}
+.unigrad-landing-page-2 .text-2-1 {
+  height: 115px;
+  left: 30px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  width: 337px;
+}
+.unigrad-landing-page-2 .text-20 {
+  height: 154px;
+  left: 232px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -2378px;
+  width: 566px;
+}
+.unigrad-landing-page-2 .text-21 {
+  left: 68px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-23 {
+  left: 71px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-25 {
+  left: 447px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 753px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-26 {
+  left: 814px;
+  letter-spacing: 0px;
+  line-height: 36px;
+  position: absolute;
+  top: 753px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .text-27 {
+  height: 115px;
+  left: 48px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 365px;
+  width: 337px;
+}
+.unigrad-landing-page-2 .text-28 {
+  height: 115px;
+  left: 19px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 807px;
+  width: 337px;
+}
+.unigrad-landing-page-2 .text-29 {
+  height: 115px;
+  left: 414px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 807px;
+  width: 337px;
+}
+.unigrad-landing-page-2 .text-3 {
+  height: 66px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 55px;
+  width: 869px;
+}
+.unigrad-landing-page-2 .text-30 {
+  height: 115px;
+  left: 814px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 807px;
+  width: 337px;
+}
+.unigrad-landing-page-2 .text-31 {
+  height: 42px;
+  left: 307px;
+  letter-spacing: 0px;
+  line-height: 18px;
+  position: absolute;
+  top: 59px;
+  width: 732px;
+}
+.unigrad-landing-page-2 .text-4 {
+  height: 57px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  position: absolute;
+  top: -179px;
+  width: 644px;
+}
+.unigrad-landing-page-2 .text-9 {
+  letter-spacing: 0px;
+  line-height: 34px;
+  margin-left: 8px;
+  min-height: 124px;
+  min-width: 138px;
+  white-space: nowrap;
+}
+.unigrad-landing-page-2 .vector-smart-object {
+  height: 1708px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1942px;
+}
+.unigrad-landing-page-2 .vector-smart-object-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  left: 0px;
+  min-width: 15px;
+  position: absolute;
+  top: 0px;
+}
+.unigrad-landing-page-2 .vector-smart-object-2 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-915@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -0px;
+  min-width: 9px;
+}
+.unigrad-landing-page-2 .vector-smart-object-3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/color-overlay-6@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -0px;
+  margin-left: 22px;
+  min-width: 17px;
+}
+.unigrad-landing-page-2 .vector-smart-object-4 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/606c5c7daa3526d862281cdb/releases/606c5dcbd4c5c07e716ceef4/img/path-933@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  margin-bottom: -0px;
+  margin-left: 18px;
+  min-width: 20px;
+  padding: 0 0px;
+}
+.unigrad-landing-page-2 .vector-smart-object-copy {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: -0px;
+  margin-left: 25px;
+  min-width: 15px;
+}
+.unigrad-landing-page-2 .x-unigradio {
+  color: white;
+  font-family: "Montserrat", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 76px;
+  letter-spacing: 0px;
+  line-height: 63px;
+  margin-left: 2px;
+  margin-top: -4.33px;
+  min-height: 76px;
+  width: 213px;
+}
+.unigrad-landing-page-2 .x-unigradio-1 {
+  align-self: center;
+  color: white;
+  font-family: "Montserrat", Helvetica;
+  font-size: 51px;
+  font-weight: 700;
+  height: 76px;
+  letter-spacing: 0px;
+  line-height: 63px;
+  margin-left: 3px;
+  margin-top: 5.82px;
+  min-height: 76px;
+  width: 315px;
+}
+* {
+  box-sizing: border-box;
+}
+.inter-bold-mirage-24px {
+  color: var(--mirage);
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.inter-bold-rhino-19px {
+  color: rgba(41, 59, 95, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+}
+.inter-bold-shark-36px {
+  color: rgba(36, 36, 36, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.inter-bold-white-20px {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.inter-light-dove-gray-16px {
+  color: var(--dove-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+}
+.inter-light-dove-gray-18px {
+  color: var(--dove-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+.inter-normal-slate-gray-15px {
+  color: rgba(112, 125, 151, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-normal-waterloo--16px {
+  color: rgba(125, 133, 151, 1);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-normal-white-16px {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-normal-black-24px {
+  color: black;
+  font-family: "SegoeUI-Semibold", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --biloba-flower: rgba(175, 165, 253, 1);
+  --blue-jeans: rgba(84, 184, 252, 1);
+  --bright-sun: rgba(254, 203, 62, 1);
+  --caribbean-green-pearl: rgba(86, 216, 141, 1);
+  --carnation-pink: rgba(253, 151, 201, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --lavender-magenta: rgba(242, 124, 241, 1);
+  --mirage: rgba(30, 32, 41, 1);
+}
